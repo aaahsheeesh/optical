@@ -1,0 +1,2 @@
+mail - fa fa-envelope
+phone-  <i class="fa fa-phone fa-4x"></i>
